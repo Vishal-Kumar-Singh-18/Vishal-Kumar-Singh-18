@@ -21,8 +21,9 @@ A passionate Software Developer with a Master's in Computer Application, current
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/_vishaltweets_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_vishaltweets_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vishal-singh-1458a1256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-singh-1458a1256/" height="30" width="40" /></a>
+<a href="https://x.com/_vishaltweets_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_vishaltweets_" height="30" width="40" /></a>
+<a href="https://portfolio-k14y.onrender.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="My Website" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
