@@ -11,7 +11,7 @@ A passionate Software Developer with a Master's in Computer Application, current
 
 - 👯 I’m looking to collaborate on **Open to interesting frontend projects or opportunities to contribute to innovative full-stack applications. Feel free to reach out if you have a project in mind!**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-k14y.onrender.com/)
+- 👨‍💻 All of my projects are available at [Projects](https://portfolio-k14y.onrender.com/#projects)
 
 - 💬 Ask me about **Anything related to web development, my learning experiences with React and Next.js, how I approach solving real-world problems with code, my logical reasoning process in development, or my journey as a software engineer!**
 
