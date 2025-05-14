@@ -5,17 +5,19 @@
 A passionate Software Developer with a Master's in Computer Application, currently honing my skills as a Frontend Developer at Clinicea Healthcare Pvt Ltd. I'm on a journey to become a proficient full-stack developer, with a strong foundation in JavaScript and a current focus on mastering React.js and Next.js. I'm eager to build impactful and user-friendly web applications.
 </p>
 
+- 🔭 I’m currently working on [Portfolio - Vishal](https://portfolio-k14y.onrender.com/)
+
 - 🌱 I’m currently learning **React.js, Next.js**
 
 - 👯 I’m looking to collaborate on **Open to interesting frontend projects or opportunities to contribute to innovative full-stack applications. Feel free to reach out if you have a project in mind!**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-k14y.onrender.com/](https://portfolio-k14y.onrender.com/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-k14y.onrender.com/)
 
 - 💬 Ask me about **Anything related to web development, my learning experiences with React and Next.js, how I approach solving real-world problems with code, my logical reasoning process in development, or my journey as a software engineer!**
 
 - 📫 How to reach me **vishalkr.18singh1999@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pbKawz9lHwS547Vsxni5XN7hfQNk8kkS/view?usp=drivesdk](https://drive.google.com/file/d/1pbKawz9lHwS547Vsxni5XN7hfQNk8kkS/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pbKawz9lHwS547Vsxni5XN7hfQNk8kkS/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
