@@ -17,7 +17,7 @@ A passionate Software Developer with a Master's in Computer Application, current
 
 - 📫 How to reach me **vishalkr.18singh1999@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pbKawz9lHwS547Vsxni5XN7hfQNk8kkS/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TjkwI31GGATILdIrM1ejWNFb263k3ZPd/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
