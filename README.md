@@ -5,7 +5,12 @@
 A passionate Software Developer with a Master's in Computer Application, currently honing my skills as a Frontend Developer at Clinicea Healthcare Pvt Ltd. I'm on a journey to become a proficient full-stack developer, with a strong foundation in JavaScript and a current focus on mastering React.js and Next.js. I'm eager to build impactful and user-friendly web applications.
 </p>
 
-- 🔭 I’m currently working on [Portfolio - Vishal](https://portfolio-k14y.onrender.com/)
+- 🔭 I’m currently working on <a href="https://portfolio-k14y.onrender.com/" 
+   target="_blank" 
+   rel="noopener noreferrer">
+  Portfolio - Vishal
+</a>
+
 
 - 🌱 I’m currently learning **React.js, Next.js**
 
